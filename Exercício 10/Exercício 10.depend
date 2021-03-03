@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614554438 source:c:\users\felipe e guilherme\desktop\fe\trabalhos mackenzie - 3º semestre\estrutura de dados i\exercício 10\exercicio10.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1614551855 source:c:\users\felipe e guilherme\desktop\fe\trabalhos mackenzie - 3º semestre\estrutura de dados i\exercício 10\untitled1.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<ctime>
+
