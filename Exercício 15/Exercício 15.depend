@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614857998 source:c:\users\felipe e guilherme\desktop\fe\trabalhos mackenzie - 3º semestre\estrutura de dados i\exercício 15\exercicio15.cpp
+	<iostream>
+	<locale.h>
+	<math.h>
+
